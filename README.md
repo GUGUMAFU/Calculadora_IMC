@@ -1,6 +1,6 @@
 # DESAFIO MB LABS
 Calculadora de índice de massa corporal(IMC), utilizando HTML, CSS e JavaScript.
-# Big Game Survey 
+# Gerenciador de eventos
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
